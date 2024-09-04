@@ -1,6 +1,8 @@
-# Hi, I'm Elias Girma 👋
+# Hi, I'm Elias Girma 👋          
 
 Welcome to my GitHub profile! I am a Full Stack Developer and AI Specialist with a robust background in web application development. Transitioning from a Senior Transport Officer, I now leverage a strong problem-solving mindset and analytical skills in building scalable, high-performance web applications and integrating advanced AI solutions. 🚀
+
+Visit my portfolio website: [https://elias-sara.github.io/Portfolio-Elias/](https://elias-sara.github.io/Portfolio-Elias/)
 
 ## About Me 🧑‍💻
 
