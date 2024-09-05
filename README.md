@@ -99,7 +99,6 @@ Here are some of my standout projects:
 Deliver Products: Receive high-quality, ready-to-use digital products tailored to your specifications, ensuring they meet your requirements and expectations.
 Provide Training: Benefit from comprehensive training sessions designed to equip you with the knowledge and skills needed to effectively use and manage your new products or technologies.
 
-
 🚀Core Services
 🔧 Full Stack Development: Master both frontend and backend with the latest technologies. Learn to build dynamic, scalable web applications from the ground up.
 🤖 AI & Machine Learning: Dive into artificial intelligence with a focus on reinforcement learning, natural language processing (NLP), and computer vision. Perfect for advancing your skills in cutting-edge tech.
@@ -109,6 +108,9 @@ Provide Training: Benefit from comprehensive training sessions designed to equip
 🖥 Online Sessions: Participate in interactive and engaging online classes led by expert instructors. Learn at your own pace with personalized guidance.
 💡 Problem Solving: Apply your skills to real-world challenges through hands-on projects, gaining practical experience that enhances your problem-solving abilities.
 
+
+
+
 Additional Services
 🎥 Video Editing: Professional editing to enhance and polish your video content.
 🎨 Graphics Design: Creative design services to visually elevate your brand.
@@ -117,6 +119,8 @@ Additional Services
 🗂 Virtual Assistance: Support for managing daily tasks and administrative functions.
 📊 Data Analysis: Expert analysis to uncover actionable insights from your data.
 ✍️ Script Writing: Craft engaging and compelling scripts for various media needs.
+
+
 
 📞 Contact Me: +251 912 843 023
 
